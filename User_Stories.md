@@ -1,4 +1,32 @@
-# User Story of Navigation bar
+# Comments:
+
+User stories must be in proper format. “As a [persona], I [want to], [so that].”
+
+Organize stories by user role, not component.
+
+Verify all CLIENT-IDEAS are included - the client never said "make me an app that does what the website already does." 
+
+Go back to the RFP, include all ideas from that. 
+
+Go back to your notes from talking with the client - include those.
+
+If not mentioned by the client as important, move those user stories to optional (or possible - do not put them on the prioritized list). 
+
+MVP 1
+
+Grand opening
+
+MVP 2
+
+Floor plans
+
+Lockers
+
+MVP 3
+
+
+
+# User Story of Navigation bar (This is already available at the existing Hughes website.)
 ## As a user one can search all the northwest missouri websites and each attributes
 ## User can access different categories like Admissions,Academics,Campus life etc
 ## User can check about details about the opening of field house
